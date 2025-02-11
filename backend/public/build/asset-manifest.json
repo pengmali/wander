@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f032116.css",
+    "main.js": "/static/js/main.791594fd.js",
+    "static/js/488.b3535e6f.chunk.js": "/static/js/488.b3535e6f.chunk.js",
+    "static/media/pexels-vincent-gerbouin-445991-1172524.jpg": "/static/media/pexels-vincent-gerbouin-445991-1172524.0f6f98d0bbbaebab94f9.jpg",
+    "index.html": "/index.html",
+    "main.9f032116.css.map": "/static/css/main.9f032116.css.map",
+    "main.791594fd.js.map": "/static/js/main.791594fd.js.map",
+    "488.b3535e6f.chunk.js.map": "/static/js/488.b3535e6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f032116.css",
+    "static/js/main.791594fd.js"
+  ]
+}
